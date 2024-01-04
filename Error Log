@@ -1,7 +1,7 @@
 
 
 MODELSM-A705F,ANDROID_VERSION11
-
+description
 java.lang.RuntimeException: Unable to start activity ComponentInfo{com.fb.acc.manager/com.fb.acc.manager.HomeActivity}: java.lang.NumberFormatException: For input string: "a"
 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:3846)
 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:4022)
